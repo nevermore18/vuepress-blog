@@ -53,7 +53,7 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "nevermore",
+    "author": "x378042733@gmail.com",
     "authorAvatar": "/avatar.png",
     "record": "blog"
   },
