@@ -55,8 +55,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "nevermore",
     "authorAvatar": "/avatar.png",
-    "record": "blog",
-    "startYear": "2020"
+    "record": "blog"
   },
   "markdown": {
     "lineNumbers": true
