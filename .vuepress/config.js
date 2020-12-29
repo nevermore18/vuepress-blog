@@ -32,7 +32,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/NeverMore378",
+            "link": "https://github.com/nevermore18",
             "icon": "reco-github"
           }
         ]
