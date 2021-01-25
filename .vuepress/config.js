@@ -1,6 +1,5 @@
 module.exports = {
   "title": "Coder",
-  "description": "hhhhhhhhhhhhhhhhhhhhhhhhhhhhh : )",
   "dest": "public",
   "head": [
     [
