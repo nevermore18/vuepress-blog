@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Welcome to nevermore blog
-tagline: Talk is nothing  Show you my code
+tagline: As good as water
 bgImageStyle: {
   height: "device-height"
 }

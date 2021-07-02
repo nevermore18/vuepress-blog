@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "Coder",
+  "title": "Free-Coder",
   "dest": "public",
   "head": [
     [
